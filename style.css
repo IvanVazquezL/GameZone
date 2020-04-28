@@ -1,6 +1,20 @@
 .grid{
  display:flex;
  flex-wrap: wrap;
- height: 300px;
- width: 400px;
+ height: 316px;
+ width: 414px;
+ border: 7px solid;
+ border-color: #999965;
 }
+
+.centerBlock {
+  margin-top: 110px;
+  margin-left: 50px;
+  display: table;
+
+}
+
+body {
+  background-image: url('images/background.png');
+}
+
